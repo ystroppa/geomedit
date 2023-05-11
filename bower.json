@@ -3,20 +3,21 @@
   "version": "0.0.0",
   "description": "A geometry editor based on AngularJS and JSXGraph",
   "dependencies": {
-    "angular": "~1.4.0",
-    "bootstrap": "~3.3.4",
-    "font-awesome": "~4.3.0",
-    "angular-ui-router": "~0.2.15",
-    "angular-strap": "~2.2.4",
-    "angular-motion": "~0.4.2",
-    "angular-animate": "~1.4.0",
-    "angular-translate": "~2.7.0",
-    "angular-local-storage": "~0.2.2",
-    "jsxgraph": "~0.99.3"
+    "angular": "^1.4.0",
+    "bootstrap": "^3.3.4",
+    "font-awesome": "^4.3.0",
+    "angular-ui-router": "^0.2.15",
+    "angular-strap": "^2.2.4",
+    "angular-motion": "^0.4.2",
+    "angular-animate": "^1.4.0",
+    "angular-translate": "^2.7.0",
+    "angular-local-storage": "^0.2.2",
+    "jsxgraph": "0.99.3",
+    "jquery": "^3.6.4"
   },
   "devDependencies": {},
   "resolutions": {
-    "angular": "~1.4.0"
+    "angular": "^1.4.0"
   },
   "appPath": "app",
   "moduleName": "geomeditApp"
