@@ -2,7 +2,14 @@
 
 An online dynamic geometry editor based on AngularJS and JSXGraph.
 
-[View online demos](http://rhcad.com/geometry).
+[View online demos] à repositionner.
+
+Sous Docker
+
+Possiblité de télécharger sous Linux/MacOS l'image docker à partir de ystroppa2/geomedit
+docker run -p 2121:80 -d ystroppa2/geomedit
+
+Pour une installation locale :
 
 ![](doc/main.png)
 
