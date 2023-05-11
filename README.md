@@ -7,6 +7,7 @@ An online dynamic geometry editor based on AngularJS and JSXGraph.
 Sous Docker
 
 Possiblité de télécharger sous Linux/MacOS l'image docker à partir de ystroppa2/geomedit
+
 docker run -p 2121:80 -d ystroppa2/geomedit
 
 Pour une installation locale :
